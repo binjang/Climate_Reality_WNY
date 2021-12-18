@@ -1,3 +1,3 @@
-# Group Project
+#Organization Website for "Climate Reality Western New York Chapter"
 
-**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form: <https://cornell.ca1.qualtrics.com/jfe/form/SV_8wcADWfpfPjrbYG>
+A group project for web design class where we were assigned to an actual client to build their website. We worked with Climate Reality Western New York Chapter to build their organizational website. My job in the group was to build the "about.html", "carousel.js", and "hamburger.js" file, and I also worked on some of the CSS propertie, specifically implementing the fonts required by the organizational guideline and orgazing the media queries and the overall alignment (spacing) of pages. We got 99/100 points for the grades. The files had been slightly modified by me after the submission in class (bug fixes). 
